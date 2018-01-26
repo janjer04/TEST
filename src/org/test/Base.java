@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("adding child 2");
 	System.out.println("i am child 3");
 	System.out.println("modify child3");
+	System.out.println("new conflict");
 }
 }
